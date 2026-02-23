@@ -4,3 +4,4 @@ This repository contains my personal implementations of machine learning concept
 
 ## Projects
 - End-to-End Machine Learning Toy Project
+- Sentiment Analysis using Naive Bayes

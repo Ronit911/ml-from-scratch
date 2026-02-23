@@ -1,9 +1,8 @@
 # ML From Scratch
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Project-Active-success)
-
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Project](https://img.shields.io/badge/Type-ML%20From%20Scratch-black)
 ---
 
 ## Overview
